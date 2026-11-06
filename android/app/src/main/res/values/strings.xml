@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Deck Joist Spacer</string>
+
+    <string name="splash_title">DECK JOIST SPACER</string>
+    <string name="splash_subtitle">FRAMING PLANS · MATERIAL LISTS · OFFLINE</string>
+    <string name="splash_loading">LOADING…</string>
+    <string name="splash_footer">MEASURE TWICE · CUT ONCE</string>
+
+    <string name="menu_hero_top">DECK</string>
+    <string name="menu_hero_bottom">JOIST SPACER</string>
+    <string name="menu_tagline">PLAN THE FRAME. BUY THE RIGHT TIMBER.</string>
+    <string name="menu_hint">METRIC OR IMPERIAL · SAVED ON THIS DEVICE</string>
+    <string name="menu_empty_title">NO DECKS YET</string>
+    <string name="menu_empty_hint">START A NEW DECK BELOW</string>
+    <string name="start_new_deck">START NEW DECK</string>
+    <string name="unit_options">UNIT OPTIONS</string>
+    <string name="unit_options_subtitle">UNITS, WASTE AND FEEDBACK</string>
+    <string name="menu">MENU</string>
+    <string name="stat_saved_decks">SAVED DECKS</string>
+    <string name="stat_total_boards">TOTAL BOARDS</string>
+    <string name="deck_card_meta">%1$s · %2$s</string>
+    <string name="deck_card_boards">%1$d BOARDS</string>
+
+    <string name="size_entry_title">DECK SIZE</string>
+    <string name="size_entry_subtitle">OUTSIDE FACE OF THE RIM JOISTS</string>
+    <string name="size_entry_hint">CHANGE ANY VALUE LATER FROM THE PLAN</string>
+    <string name="step_one">1 / 3</string>
+    <string name="step_two">2 / 3</string>
+    <string name="section_footprint">FOOTPRINT</string>
+    <string name="section_footprint_hint">HOLD A STEPPER TO RUN THE VALUE</string>
+    <string name="section_deck_name">DECK NAME</string>
+    <string name="field_length">LENGTH</string>
+    <string name="field_width">WIDTH</string>
+    <string name="field_height">HEIGHT ABOVE GRADE</string>
+    <string name="field_deck_name">NAME</string>
+    <string name="label_deck_area">DECK AREA</string>
+    <string name="next_joist_setup">NEXT: JOIST SETUP</string>
+
+    <string name="joist_setup_title">JOIST SETUP</string>
+    <string name="joist_setup_subtitle">SPACING, DIRECTION AND BOARDS</string>
+    <string name="section_spacing">SPACING</string>
+    <string name="section_direction">JOIST DIRECTION</string>
+    <string name="section_joist_size">JOIST SIZE</string>
+    <string name="section_board_width">BOARD WIDTH</string>
+    <string name="section_board_gap">BOARD GAP</string>
+    <string name="section_waste">WASTE</string>
+    <string name="direction_across">ACROSS WIDTH</string>
+    <string name="direction_along">ALONG LENGTH</string>
+    <string name="joist_section_option">%1$d X 45</string>
+    <string name="draw_framing_plan">DRAW FRAMING PLAN</string>
+    <string name="note_spans">SPANS AND SPACING VARY BY TIMBER GRADE AND LOCAL CODE. CONFIRM BEFORE YOU BUY.</string>
+
+    <string name="game_title">FRAMING PLAN</string>
+    <string name="game_hint">TAP A JOIST FOR ITS MARK · PINCH TO ZOOM · DOUBLE TAP TO FIT</string>
+    <string name="marks">MARKS</string>
+    <string name="boards">BOARDS</string>
+    <string name="fasteners">FASTENERS</string>
+    <string name="material_list">MATERIAL LIST</string>
+    <string name="unit_joists">JOISTS</string>
+    <string name="unit_beams">BEAMS</string>
+    <string name="unit_rows">ROWS</string>
+
+    <string name="marks_title">LAYOUT MARKS</string>
+    <string name="marks_subtitle">MEASURED FROM THE LEFT RIM</string>
+    <string name="mark_delta">+%1$d</string>
+    <string name="marks_last">LAST MARK %1$s</string>
+    <string name="marks_outside_face">RIM JOIST OUTSIDE FACE %1$s</string>
+    <string name="back_to_plan">BACK TO PLAN</string>
+
+    <string name="boards_title">BOARD PLAN</string>
+    <string name="boards_subtitle">%1$s BOARDS · %2$d MM GAP</string>
+    <string name="board_row">ROW %1$d</string>
+    <string name="boards_summary">%1$d ROWS · %2$d LENGTHS PER ROW</string>
+    <string name="boards_last">LAST BOARD %1$s</string>
+
+    <string name="fasteners_title">FASTENER COUNT</string>
+    <string name="fasteners_subtitle">INCLUDES THE CHOSEN WASTE</string>
+    <string name="stat_screws">DECK SCREWS</string>
+    <string name="stat_hangers">JOIST HANGERS</string>
+    <string name="stat_brackets">POST BRACKETS</string>
+    <string name="stat_structural">STRUCTURAL SCREWS</string>
+    <string name="section_breakdown">HOW IT ADDS UP</string>
+    <string name="breakdown_screws">2 SCREWS PER BOARD PER JOIST</string>
+    <string name="breakdown_screws_maths">%1$d ROWS X %2$d JOISTS X 2 = %3$d</string>
+    <string name="breakdown_hangers">2 HANGERS PER INTERIOR JOIST</string>
+    <string name="breakdown_hangers_maths">%1$d JOISTS X 2 = %2$d</string>
+    <string name="breakdown_brackets">1 BRACKET PER POST</string>
+    <string name="breakdown_brackets_maths">%1$d POSTS X 1 = %2$d</string>
+    <string name="waste_line">+%1$d %% WASTE = %2$d SCREWS</string>
+    <string name="waste_boxes">BUY %1$d X %2$d PIECE BOX</string>
+    <string name="add_to_material_list">ADD TO MATERIAL LIST</string>
+
+    <string name="result_title">MATERIAL LIST</string>
+    <string name="result_subtitle">%1$s · %2$s · %3$d %% WASTE</string>
+    <string name="result_hint">TAP A LINE WHEN IT IS IN THE TRAILER</string>
+    <string name="save_and_plan_again">SAVE AND PLAN AGAIN</string>
+    <string name="build_notes">BUILD NOTES</string>
+    <string name="stat_lineal_metres">LINEAL METRES</string>
+    <string name="stat_items_ticked">ITEMS TICKED</string>
+    <string name="ticked_of_total">%1$d / %2$d</string>
+    <string name="item_joist">JOIST %1$d X %2$d X %3$d</string>
+    <string name="item_rim_joist">RIM JOIST %1$d X %2$d X %3$d</string>
+    <string name="item_beam">BEAM %1$d X %2$d X %3$d DOUBLED</string>
+    <string name="item_deck_board">DECK BOARD %1$d X %2$d X %3$d</string>
+    <string name="item_post">POST %1$d X %2$d X %3$d</string>
+    <string name="item_hanger">JOIST HANGER %1$d</string>
+    <string name="item_bracket">POST BRACKET</string>
+    <string name="item_deck_screw">DECK SCREW %1$d MM</string>
+    <string name="item_structural_screw">STRUCTURAL SCREW %1$d MM</string>
+
+    <string name="section_rules_of_thumb">RULES OF THUMB</string>
+    <string name="section_rules_hint">TICK EACH ONE OFF ON SITE</string>
+    <string name="section_your_notes">YOUR NOTES</string>
+    <string name="field_notes">NOTES FOR THIS DECK</string>
+    <string name="note_check_span">CONFIRM JOIST SPAN WITH LOCAL CODE</string>
+    <string name="note_check_footing">CHECK FOOTING DEPTH FOR YOUR FROST LINE</string>
+    <string name="note_check_fall">SET A FALL OF 1 IN 100 AWAY FROM THE HOUSE</string>
+    <string name="note_check_fasteners">USE EXTERIOR GRADE FASTENERS</string>
+    <string name="note_check_expansion">LEAVE AN EXPANSION GAP AT THE HOUSE WALL</string>
+    <string name="note_check_dry_fit">DRY FIT THE LAST BOARD BEFORE RIPPING</string>
+    <string name="note_disclaimer">THESE ARE RULES OF THUMB, NOT ENGINEERING ADVICE. CONFIRM EVERYTHING WITH YOUR LOCAL BUILDING CODE.</string>
+
+    <string name="section_units">UNITS</string>
+    <string name="section_default_waste">DEFAULT WASTE</string>
+    <string name="section_behaviour">ON THE PLAN</string>
+    <string name="units_metric">METRIC MM</string>
+    <string name="units_imperial">IMPERIAL IN</string>
+    <string name="toggle_deltas">SHOW ON-CENTRE DELTAS</string>
+    <string name="toggle_haptic">HAPTIC ON SNAP</string>
+    <string name="preview_label">PREVIEW</string>
+    <string name="preview_conversion">%1$s = %2$s</string>
+
+    <string name="len_mm">%1$d MM</string>
+    <string name="len_in">%1$d IN</string>
+    <string name="len_ft_in">%1$d FT %2$d IN</string>
+    <string name="area_sq_m">%1$.1f SQ M</string>
+    <string name="area_sq_ft">%1$d SQ FT</string>
+    <string name="metres_value">%1$.1f M</string>
+    <string name="percent_value">%1$d %%</string>
+    <string name="deck_size_metric">%1$.2f M X %2$.2f M</string>
+    <string name="deck_size_imperial">%1$d FT %2$d IN X %3$d FT %4$d IN</string>
+
+    <string name="state_no_plan">NO PLAN YET. START A DECK FROM THE MENU.</string>
+    <string name="state_ticked">TICKED</string>
+    <string name="state_not_ticked">NOT TICKED</string>
+
+    <string name="joist_dialog_title">JOIST %1$d</string>
+    <string name="joist_dialog_mark">MARK FROM RIM %1$s</string>
+    <string name="joist_dialog_section">SECTION %1$s</string>
+    <string name="joist_dialog_length">LENGTH %1$s</string>
+    <string name="close">CLOSE</string>
+    <string name="delete_deck_title">DELETE DECK</string>
+    <string name="delete_deck_message">REMOVE %1$s FROM THIS DEVICE?</string>
+    <string name="delete">DELETE</string>
+    <string name="keep">KEEP</string>
+
+    <string name="cd_logo">DECK JOIST SPACER EMBLEM</string>
+    <string name="cd_back">BACK</string>
+    <string name="cd_home_mark">HOUSE AND DECK MARK</string>
+    <string name="cd_unit_options">UNIT OPTIONS</string>
+    <string name="cd_build_notes">BUILD NOTES</string>
+    <string name="cd_delete_deck">DELETE DECK</string>
+    <string name="cd_joist">TIMBER JOIST</string>
+    <string name="cd_boards">STACK OF DECK BOARDS</string>
+    <string name="cd_screw">EXTERIOR DECK SCREW</string>
+    <string name="cd_hanger">JOIST HANGER</string>
+    <string name="cd_bracket">POST BRACKET</string>
+    <string name="cd_tape_measure">TAPE MEASURE AND PENCIL</string>
+</resources>
